@@ -1,8 +1,10 @@
-<img src="https://i.ibb.co/M9GdCp0/bygu-slowed.gif" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://media.tenor.com/AkZzPm0Ie40AAAAC/the-matrix-matrix.gif" align="center" height="" width="800" />
+</div>  
   
 
 # Hello World!
-I am ***[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8)***. A part-time programmer, filmmaker, vlogger, composer, actor and many more...  
+I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8)*****. A part-time programmer, filmmaker, vlogger, composer, actor and many more...  
   
 
 - 🔭 I’m currently a student of **Computer Science and Engineering**  
@@ -15,6 +17,13 @@ I am ***[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6
   
 
 - ❓ Ask me about ANYTHING related to life  
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shopn0&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
@@ -85,13 +94,6 @@ I am ***[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shopn0&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopn0&hide_border=true&layout=compact" align="left" />  
@@ -100,7 +102,10 @@ I am ***[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6
 
 <br/>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jezza-ca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="left" height="" width="400" />  
+  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jezza-ca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 <br />
 
 ----
