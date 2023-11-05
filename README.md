@@ -22,7 +22,7 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shopn0&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=shopn0&&style=for-the-badge" align="center" />
 </div>  
   
 
