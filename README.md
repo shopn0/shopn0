@@ -31,7 +31,7 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -73,7 +73,7 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 <br/>  
 
 
-## Connect with me  
+## Connections 
 <div align="center">
 <a href="https://linkedin.com/in/ahmad-shahriar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
