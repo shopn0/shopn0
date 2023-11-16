@@ -3,7 +3,7 @@
 </div>  
   
 
-# Hello World!
+## Hello World!
 I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8)*****. A part-time programmer, filmmaker, vlogger, composer, actor and many more...  
   
 
@@ -22,8 +22,9 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shopn0&&style=for-the-badge" align="center" />
-</div>  
+  Profile Views <br/>
+  <img src="https://profile-counter.glitch.me/shopn0/count.svg?"  />
+</div>
   
 
 <br/>  
@@ -96,14 +97,14 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopn0&hide_border=true&layout=compact" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=shopn0&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+![](https://github-readme-stats.vercel.app/api?username=shopn0&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shopn0&theme=blue-green&hide_border=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shopn0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <br/>  
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="left" height="" width="400" />  
-  
+<img src='https://randommeme-five.vercel.app/' align="left" style="height: 400px;"/> 
+<div align=""><img src="https://spotify-github-profile.vercel.app/api/view?uid=jezza-ca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jezza-ca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
-<br />
