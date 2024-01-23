@@ -108,5 +108,5 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 
 <br/>  
 
-<div align=""><img src="https://spotify-github-profile.vercel.app/api/view?uid=jezza-ca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jezza-ca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
