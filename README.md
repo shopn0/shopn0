@@ -15,7 +15,7 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 
 <br/>  
 
-<a href="https://wakatime.com/@shopn0"><img src="https://wakatime.com/share/@shopn0/5ef32130-1dfb-4a0d-8d40-bf553d3d683a.png" width="400"/></a><a href="https://wakatime.com/@shopn0"><img src="https://wakatime.com/share/@shopn0/4cb8fef6-42e7-45c3-aac0-7a71aa7b04ab.png" width="400"/></a>
+<a href="https://wakatime.com/@shopn0"><img src="https://wakatime.com/share/@shopn0/5ef32130-1dfb-4a0d-8d40-bf553d3d683a.png" width="450"/></a><a href="https://wakatime.com/@shopn0"><img src="https://wakatime.com/share/@shopn0/4cb8fef6-42e7-45c3-aac0-7a71aa7b04ab.png" width="450"/></a>
   
 
 <br/>  
