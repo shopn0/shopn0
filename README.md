@@ -6,7 +6,7 @@
 ## Hello World!
 I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8)*****. A human, programmer, filmmaker, vlogger, composer, actor and many more...  
 -  I’m currently a student of Computer Science and Engineering at Daffodil International University.
-
+- Founder of <a href=https://samplex.rf.gd/>SampleX</a> (spending most of my time in it)
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shopn0&&style=flat-square" align="center" width="200" height="300"/>
