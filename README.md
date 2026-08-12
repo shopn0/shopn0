@@ -9,7 +9,7 @@ I am *****[Shopno](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%
 - Founder of <a href=https://samplex.rf.gd/>SampleX</a> (spending most of my time in it)
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shopn0&&style=flat-square" align="center" width="200" height="50"/>
+<img src="https://komarev.com/ghpvc/?username=shopn0&&style=flat-square" align="center" width="200" height="30"/>
 </div>  
   
 ## Activity
